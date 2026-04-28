@@ -2,6 +2,11 @@
 
 Este projeto implementa um portal simples de e-commerce interno com arquitetura de microfrontends em React + Vite.
 
+## Alunos
+
+- Adriano de Oliveira Agostinho
+- Jussara de Jesus Andrade
+
 ## Estrutura do projeto
 
 - `shell`: layout global, roteamento e carregamento lazy dos MFEs.
